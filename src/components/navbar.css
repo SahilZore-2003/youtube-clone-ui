@@ -1,0 +1,12 @@
+#navbar::-webkit-scrollbar {
+    width: 8px;
+}
+
+#navbar::-webkit-scrollbar-thumb {
+    background-color: #000;
+}
+
+#navbar:hover::-webkit-scrollbar-thumb {
+    background-color: #717171;
+    border-radius: 5px;
+}
